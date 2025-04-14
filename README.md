@@ -1,6 +1,3 @@
-Here is the code for the `README.md` file:
-
-```markdown
 # Dehazing Image App
 
 This project is a Streamlit application for dehazing images using a deep learning model. The app allows users to upload a hazy image, process it using a pre-trained model, and download the dehazed image.
