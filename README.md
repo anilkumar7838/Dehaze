@@ -88,6 +88,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 Special thanks to the authors of the dehazing model and the open-source community for tools and libraries.
-```
-
-You can copy this content and save it as `README.md`. Let me know if you want to add or modify anything!
