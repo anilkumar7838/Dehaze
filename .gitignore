@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# PyTorch cache
+*.pt
+*.pth
+__pycache__/
+
+# Streamlit logs
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python eggs
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Deployment
+*.log
+*.pid
+*.seed
+*.state
+*.bak
+*.swp
+*.swo
+*.orig
+*.~ 
+
+# Local testing files
+*.local
+*.env
+*.DS_Store
+
+# Uploaded and dehazed images
+D:/Dehaze/test/haze/
+D:/Dehaze/test/gt/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.iml
