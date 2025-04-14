@@ -15,7 +15,6 @@ ENV/
 
 # PyTorch cache
 *.pt
-*.pth
 __pycache__/
 
 # Streamlit logs
